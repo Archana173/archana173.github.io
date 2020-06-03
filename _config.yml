@@ -1,0 +1,57 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+darkmode: true
+
+# Personal info
+name: Archana Reddy Gunthala
+title: Business Analyst
+email: archana17390@gmail.com
+website: www.github.com/Archana173
+
+# Social links
+# twitter_username: twitterid
+github_username:  Archana173
+linkedin_username: archana-reddy-gunthala
+# pinterest_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Archana. I am a recent grad, currently looking for opportunities in business analytics.
+
+  I am most skilled in: <mark>Tableau</mark>, <mark>PowerBI</mark>, <mark>Python</mark>, <mark>Excel</mark>, <mark>SQL</mark>, <mark>TextMining</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Along with my interest in crunching data to provide business insights, I like :
+   - Reading Blogs
+   - Cooking
+   - Playing outdoor sports
+
+# Footer
+footer_show_references: false
+
+# Build settings
+#theme: modern-resume-theme
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

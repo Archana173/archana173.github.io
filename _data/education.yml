@@ -1,0 +1,26 @@
+- layout: left
+  name: University of Washington
+  dates: Jun 2019 - Present
+  qualification: Master's in Business Analytics
+  quote: >
+    Currently pursuing masters in business analytics
+  description: | # this will include new lines to allow paragraphs
+    Please See my projects section for the projects I worked on
+
+- layout: left
+  name: Vignan Jyothi Institue of Management
+  dates: May 2011 - April 2013
+  qualification: MBA, Finance & Marketing
+  quote: >
+    Pursued MBA in India
+  description: | # this will include new lines to allow paragraphs
+    To Be Updated
+
+- layout: left
+  name: Jawaharlal Nehru Institute of Technology
+  dates: May 2007 - April 2011
+  qualification: Bachelors in Electrical Engineering
+  quote: >
+    Pursued bachelors in electrical engineering
+  description:
+    To Be Updated

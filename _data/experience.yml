@@ -1,0 +1,43 @@
+- layout: left
+  company: Sound Credit Union
+  link: https://www.soundcu.com/
+  job_title: Data Analyst Intern
+  dates: Jun 2019 – Present
+  quote: >
+   Data Analyst Intern
+  description: | # this will include new lines to allow paragraphs
+    - Developing business architecture using requirements such as scope, processes, and risks.
+    - Writing SQL queries and analyzing the data using Power BI
+    - Using Python for data pre-processing and text mining to analyze survey data
+
+- layout: left
+  company: The Sounth Indian Bank Limited
+  link: https://www.southindianbank.com/
+  job_title: Business Analyst
+  dates: Jun 2015 – Jun 2018
+  quote: >
+   Business Analyst
+  description: | # this will include new lines to allow paragraphs
+    - Wrote SQL queries to understand and interpret data and to draw conclusions for managerial action and strategy.
+    - Collaborated on all stages of systems development lifecycle, from requirement gathering to production releases.
+    - Worked closely with the client for developing a banking app which in-turn boosted the customer base by 18% in one year.
+    - Built interactive reports, complex dashboards for clients, writing formulas for created KPIs in Tableau and Power BI.
+    - Used advanced Microsoft Excel to create pivot tables and pivot reporting, as well as use VLOOKUP function.
+    - Used statistical techniques to validate data and interpretations
+
+- layout: left
+  company: The Sounth Indian Bank Limited
+  jobs: 
+    - title: Business Analyst
+      dates: Jun 2015 – Jun 2018
+    - title: Marketing Head / Operations Manager
+      dates: Jun 2015 – Jun 2018
+  quote: >
+   Business Analyst
+  description: | # this will include new lines to allow paragraphs
+    - Wrote SQL queries to understand and interpret data and to draw conclusions for managerial action and strategy.
+    - Collaborated on all stages of systems development lifecycle, from requirement gathering to production releases.
+    - Worked closely with the client for developing a banking app which in-turn boosted the customer base by 18% in one year.
+    - Built interactive reports, complex dashboards for clients, writing formulas for created KPIs in Tableau and Power BI.
+    - Used advanced Microsoft Excel to create pivot tables and pivot reporting, as well as use VLOOKUP function.
+    - Used statistical techniques to validate data and interpretations    

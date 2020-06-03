@@ -1,0 +1,34 @@
+- layout: left
+  name: Visualizing cricket data
+  link: https://public.tableau.com/profile/archana3592#!/vizhome/AssignmentDashboard_15754439269400/AssignmentDashboard
+  quote: >
+    Visualize cricket player stats
+  description: | # this will include new lines to allow paragraphs
+    Worked on Indian Premier League data using Tableau to analyze various stats and top performing players througout the seasons. The analysis was used by one of the advertisement companies in India to write an article for a maganize
+
+- layout: left
+  name: Report on Analysis of Avocado Prices
+  link: https://drive.google.com/file/d/1uBmATnzd1puTJHxQq5JH7iyE6FI6tucC/view?usp=sharing
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Avocado price analysis
+  description: | # this will include new lines to allow paragraphs
+    I used R Studio to look into the avocado prices in US to determine if there is any price difference between conventional and organic avocados. We have also used Time Series analysis to understand the variation in avocado prices
+
+- layout: left
+  name: Heart Stroke Prediction
+  link: https://gallery.azure.ai/Experiment/Stroke-Prediction-Calculator
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Predict heart stroke chances for a patient
+  description: | # this will include new lines to allow paragraphs
+    Performed predictive analysis on patients data to determine how likely a person is to get a stroke using Azure ML Studio       
+
+- layout: left
+  name: COVID-19 Cases Worldwide
+  link: https://drive.google.com/file/d/1ecWaFEdyRYHNO0Kkx3dx1Gd0Tks4sbxb/view?usp=sharing
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    COVID-19 cases worldwide (dashboard)
+  description: | # this will include new lines to allow paragraphs
+    Used Power BI to build visuals to see how did Coronavirus outbreak in US. (I have the screenshot of the work I did instead of PBI link. I was unable to share as the account is not Power BI Pro)           
