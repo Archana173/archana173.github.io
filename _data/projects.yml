@@ -1,6 +1,7 @@
 - layout: left
   name: Visualizing cricket data
   link: https://public.tableau.com/profile/archana3592#!/vizhome/AssignmentDashboard_15754439269400/AssignmentDashboard
+  linkname: Project Link
   quote: >
     Visualize cricket player stats
   description: | # this will include new lines to allow paragraphs
@@ -9,6 +10,7 @@
 - layout: left
   name: Report on Analysis of Avocado Prices
   link: https://drive.google.com/file/d/1uBmATnzd1puTJHxQq5JH7iyE6FI6tucC/view?usp=sharing
+  linkname: Project Link
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Avocado price analysis
@@ -18,6 +20,7 @@
 - layout: left
   name: Heart Stroke Prediction
   link: https://gallery.azure.ai/Experiment/Stroke-Prediction-Calculator
+  linkname: Project Link
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Predict heart stroke chances for a patient
@@ -27,6 +30,7 @@
 - layout: left
   name: COVID-19 Cases Worldwide
   link: https://drive.google.com/file/d/1ecWaFEdyRYHNO0Kkx3dx1Gd0Tks4sbxb/view?usp=sharing
+  linkname: Project Link
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     COVID-19 cases worldwide (dashboard)
